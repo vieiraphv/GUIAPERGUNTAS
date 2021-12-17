@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(224, 239, 248);
+}
+
+#formulariopergunta{
+    margin-top: 5vh;
+}
+
+#btnperg{
+    align-items: center;
+    justify-self: center;
+    margin-top: 10px;
+}
+
